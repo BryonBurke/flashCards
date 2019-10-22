@@ -1,0 +1,21 @@
+.card {
+  background-color: lightblue;
+  /* width: 400px; */
+  height: 200px;
+  font-size: 30px;
+  border: solid white 10px;
+  text-align: center;
+}
+
+.word-only {
+  position: relative;
+  top: 60px;
+}
+
+.word-and-definition {
+  background-color: red;
+}
+
+.hidden {
+  display: none;
+}
